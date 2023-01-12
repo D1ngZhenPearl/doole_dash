@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "c7a3e5370a2aec7edcf5a04e3d647df5c2cb43f541566bc39972f3d9b77921a0"
-build_start_time: [1673507739, 411205053]
-build_end_time: [1673507740, 703248023]
-inputs:
-  "/Users/wangweishan/dev/flutter-codelabs/flame-building-doodle-dash/step_02/macos/Flutter/GeneratedPluginRegistrant.swift": [1673507733, 698627233]
-  "/Users/wangweishan/dev/flutter-codelabs/flame-building-doodle-dash/step_02/macos/Runner/AppDelegate.swift": [1673457002, 116868019]
-  "/Users/wangweishan/dev/flutter-codelabs/flame-building-doodle-dash/step_02/macos/Runner/MainFlutterWindow.swift": [1673457002, 119477272]
