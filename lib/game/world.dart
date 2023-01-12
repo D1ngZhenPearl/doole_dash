@@ -8,6 +8,8 @@ import 'package:flutter/material.dart';
 
 import './doodle_dash.dart';
 
+// 渲染游戏背景
+// 该类将图像资产列表，并将其渲染成图层，使每个图层以不同的速度移动，使其看起来更逼真。
 class World extends ParallaxComponent<DoodleDash> {
   @override
   Future<void> onLoad() async {
